@@ -1,0 +1,2 @@
+# yalink.js
+yalink
